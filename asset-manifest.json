@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monsters-rolodex-reactTrain/static/css/main.841dafbe.css",
+    "main.js": "/monsters-rolodex-reactTrain/static/js/main.4d386ded.js",
+    "index.html": "/monsters-rolodex-reactTrain/index.html",
+    "main.841dafbe.css.map": "/monsters-rolodex-reactTrain/static/css/main.841dafbe.css.map",
+    "main.4d386ded.js.map": "/monsters-rolodex-reactTrain/static/js/main.4d386ded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841dafbe.css",
+    "static/js/main.4d386ded.js"
+  ]
+}
